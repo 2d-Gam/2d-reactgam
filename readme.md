@@ -144,7 +144,6 @@ HexagonShape | `length:[number,number,...6]` | none
 Parallelogram | `length:[number,number]` |none
 quadrilateralShape | `length:[number,number,...4]` |none
 Snowflake | `length:number` |none
-Square | `width:number` <br> `height:number` |none
 Triangel | `length:[number,number,...3]` |none
 
 <h3 id="det">Detections</h3>
